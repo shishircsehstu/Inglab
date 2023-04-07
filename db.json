@@ -1,0 +1,74 @@
+[
+    {
+        "avatar": "https://user-images.githubusercontent.com/29371886/230555186-6b771e71-16ad-4984-aa43-7cb154ba6614.png",
+        "name": "John",
+        "phone": "0121234513",
+        "isActive": true,
+        "index": 1
+    },
+    {
+        "avatar": "https://user-images.githubusercontent.com/29371886/230555154-c494fa67-c910-4edb-9cec-7ec4deb4bed1.png",
+        "name": "Max Well",
+        "phone": "0121234518",
+        "isActive": true,
+        "index": 2
+
+    },
+    {
+        "avatar": "https://user-images.githubusercontent.com/29371886/230555160-068b9316-ae22-4369-9012-315e5045867e.png",
+        "name": "Max Well",
+        "phone": "0121234518",
+        "isActive": true,
+        "index": 3
+
+    },
+    {
+        "avatar": "https://user-images.githubusercontent.com/29371886/230555162-1854e731-627f-452b-84e3-7d2390e58186.png",
+        "name": "Abraham",
+        "phone": "0121234518",
+        "isActive": true,
+        "index": 4
+
+    },
+    {
+        "avatar": "https://user-images.githubusercontent.com/29371886/230555164-1b5cc822-57e5-4f56-af68-44b88d69543c.png",
+        "name": "David Leo",
+        "phone": "0121234518",
+        "isActive": false,
+        "index": 5
+
+    },
+    {
+        "avatar": "https://user-images.githubusercontent.com/29371886/230555168-ef920ae0-fb5f-4c8c-b5ca-256bb4064d70.png",
+        "name": "Ibrahim",
+        "phone": "0121234569",
+        "isActive": true,
+        "index": 6
+
+    },
+    {
+        "avatar": "https://user-images.githubusercontent.com/29371886/230555170-72659a27-d186-41fc-a9f4-f4f0fb74c006.png",
+        "name": "Shakib Al",
+        "phone": "01212345009",
+        "isActive": true,
+        "index": 7
+
+    },
+    {
+        "avatar": "https://user-images.githubusercontent.com/29371886/230555175-706aa61a-9c8e-4887-ae82-074ee664061f.png",
+        "name": "Hussain",
+        "phone": "01212345098",
+        "isActive": true,
+        "index": 8
+
+    },
+    {
+        "avatar": "https://user-images.githubusercontent.com/29371886/230555183-07b28b93-f0ef-4c37-a998-1324f8078b21.png",
+        "name": "Jos son",
+        "phone": "0121230098",
+        "isActive": true,
+        "index": 9
+
+    }
+]
+
